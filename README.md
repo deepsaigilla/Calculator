@@ -34,3 +34,5 @@ To run the calculator application, follow these steps:
 
     [Repository link](https://github.com/deepsaigilla/Calculator)
 
+2. Compile and run the source code. 
+
