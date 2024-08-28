@@ -22,6 +22,10 @@ The purpose of this project is to create a graphical calculator application that
 - **String Manipulation:** Used for managing and evaluating mathematical expressions entered by the user.
 - **Expression Evaluation:** A basic method to parse and evaluate mathematical expressions based on operator precedence.
 
+## Result
+![Calculator](https://github.com/deepsaigilla/Calculator/blob/main/Output1.png)
+![Calculator](https://github.com/deepsaigilla/Calculator/blob/main/output2.png)
+
 ## Getting Started
 
 To run the calculator application, follow these steps:
@@ -29,3 +33,4 @@ To run the calculator application, follow these steps:
 1. **Clone the Repository:**
 
     [Repository link](https://github.com/deepsaigilla/Calculator)
+
